@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Aleksandar Radisavljevic <flpmkc@gmail.com>",
 	"description": "This is my first node project that i will push to github and import to glitch to get my live url for prewieving it.",
+  "keywords": ["freecodecamp", "nodeproject", "GitToGlitch", "rendering"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
