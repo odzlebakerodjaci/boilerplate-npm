@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Aleksandar Radisavljevic",
+	"author": "Aleksandar Radisavljevic <flpmkc@gmail.com>",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
